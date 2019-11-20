@@ -24,7 +24,8 @@
 
 <details>
   <summary>Contributors</summary>
-    - [Akhil Pillai](https://github.com/Akhil-Pillai/)
+  
+  - [Akhil Pillai](https://github.com/Akhil-Pillai/)
  </details>
 ---
 
