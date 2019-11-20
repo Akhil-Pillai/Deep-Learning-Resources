@@ -24,21 +24,37 @@
 
 ---
 
-## Self-Paced Text Tutorials/Ebooks
+## Self-Paced Tutorials
   ### Free
-   #### Deep Learning
-   - [The Deep Learning](http://www.deeplearningbook.org) textbook by Ian Goodfellow and Yoshua Bengio and Aaron Courville
-   #### Machine Learning
-   - [Machine Learning Mastery!](https://machinelearningmastery.com/) by Jason Brownlee
+   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) This course is a deep dive into details of the deep learning architectures. Students will learn to implement, train and debug their own neural networks. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). Much of the background and materials of this course will be drawn from the [ImageNet Challenge](http://image-net.org/challenges/LSVRC/2014/index). 
+      - [Notes](http://cs231n.github.io/) to accompany the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition
+      - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
+   - [Coursera: Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) This course will introduce you to the field of deep learning 
+   -[Practical Deep Learning for Coders](https://course.fast.ai/)
    - [Elements of AI](https://course.elementsofai.com/) The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki. The courses combine theory with practical exercises and can be completed at your own pace.
-   
+   - [Coursera: ML with Python](https://www.coursera.org/learn/machine-learning-with-python) This course dives into the basics of machine learning 
+      
    #### Maths
    - [Quantitative Economics with Python](https://python.quantecon.org/) by by Thomas J. Sargent and John Stachurski. This website presents a set of lectures on quantitative economic modeling in Python
    
+   #### Python
+   - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
+
+## Ebooks/Text Tutorials
+  ### Free
+  - [The Deep Learning](http://www.deeplearningbook.org) textbook by Ian Goodfellow and Yoshua Bengio and Aaron Courville
+  - [Machine Learning Mastery!](https://machinelearningmastery.com/) by Jason Brownlee
+  - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
   ### Paid
-   #### Macine Learning
-   - [The Hundred-page Machine Learning Book](http://themlbook.com/) by Andriy Burkov
+  - [The Hundred-page Machine Learning Book](http://themlbook.com/) by Andriy Burkov
    
 
 ## Coding Environment
    - [Google Colab](https://colab.research.google.com/) Colaboratory is a free Jupyter notebook environment provided by Google. If your local workstation cannot take the workload, Google Colab is the platform to use.
+   
+   
+## Articles
+  - [Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb) 
+  - [Keras or PyTorch as your first deep learning framework ](https://deepsense.ai/keras-or-pytorch/)
+  - [Keras vs TensorFlow vs PyTorch : Comparison of the Deep Learning Frameworks](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
+  - [Keras vs Pytorch for Deep Learning](https://towardsdatascience.com/keras-vs-pytorch-for-deep-learning-a013cb63870d)
