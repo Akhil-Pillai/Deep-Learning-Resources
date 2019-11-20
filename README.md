@@ -26,6 +26,7 @@
   <summary>Contributors</summary>
   
   - [Akhil Pillai](https://github.com/Akhil-Pillai/)
+  - [Priyavrat Misra](https://github.com/priyavrat-misra/)
  </details>
  
 ---
@@ -33,6 +34,7 @@
 ## Self-Paced Tutorials
   ### Artificial Intelligence, Machine Learning, Deep Learning and stuff
   - [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) This course is a deep dive into details of the deep learning architectures. Students will learn to implement, train and debug their own neural networks. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). Much of the background and materials of this course will be drawn from the [ImageNet Challenge](http://image-net.org/challenges/LSVRC/2014/index). 
+      - [Video Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) by Andrej Karpathy, instructor CS231n.
       - [Notes](http://cs231n.github.io/) to accompany the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition
       - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
   - [Coursera: Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) This course will introduce you to the field of deep learning
@@ -41,6 +43,8 @@
   - [Elements of AI](https://course.elementsofai.com/) The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki. The courses combine theory with practical exercises and can be completed at your own pace.
   - [Coursera: ML with Python](https://www.coursera.org/learn/machine-learning-with-python) This course dives into the basics of machine learning 
   - [Youtube: Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) with Josh Gordon (offered on [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) Youtube Channel)
+  - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning) by Andrew NG. This is a course for you if are new to this world!
+  - [Coursera: Deep Learning](https://www.coursera.org/specializations/deep-learning) by Andrew NG. A 5-course specialization focusing on various concepts of deep learning with in-depth and simple explanation.
       
    ### Python
    - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
@@ -48,6 +52,8 @@
    
    ### Math
    - [Youtube: 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) by Grant Sanderson, is combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.
+   - [Khan Academy](https://www.khanacademy.org/) great resource to learn all the math from the ground up.
+   - [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010) by Prof. Gilbert Strang.
    
 
 ## Ebooks/Text Tutorials
@@ -63,6 +69,9 @@
 ## Coding Environment
    - [Google Colab](https://colab.research.google.com/) Colaboratory is a free Jupyter notebook environment provided by Google. If your local workstation cannot take the workload, Google Colab is the platform to use.
    
+## Blogs
+   - [Andrej Karpathy](http://karpathy.github.io/) , director of artificial intelligence and Autopilot Vision at Tesla.
+   - [Christopher Olah](https://colah.github.io/)
    
 ## Articles
   - [Clearing the Confusion: AI vs Machine Learning vs Deep Learning Differences](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb) 
