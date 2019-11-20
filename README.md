@@ -3,19 +3,19 @@
 <details>
   <summary>Preface?</summary>
 
-  - ## What is it?
+  - ### What is it?
 
     This is a list of resources curated from the Slack channel for Udacity's first phase of AI Track scholarship challenge
 
-  - ## Why use it?
+  - ### Why use it?
 
     As the Slack channel will have multiple conversations going on. I thought best to consolidate all the resources into one repository for anyone to access any time without having to go through all the conversations.
 
-  - ## How to contribute?
+  - ### How to contribute?
 
     All are welcome to open a Pull Request or raise an issue, with the content you would like to share
 
-    - ### What kind of content?
+    - #### What kind of content?
   
       Text tutorials, video resources, youtube playlists, self-paced learning courses, ebooks... I hope you get the point.
   
