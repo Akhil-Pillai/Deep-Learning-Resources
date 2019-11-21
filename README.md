@@ -78,3 +78,6 @@
   - [Keras or PyTorch as your first deep learning framework ](https://deepsense.ai/keras-or-pytorch/)
   - [Keras vs TensorFlow vs PyTorch : Comparison of the Deep Learning Frameworks](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
   - [Keras vs Pytorch for Deep Learning](https://towardsdatascience.com/keras-vs-pytorch-for-deep-learning-a013cb63870d)
+
+  ## Other Git Repos
+  - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list#tutorials--examples)
