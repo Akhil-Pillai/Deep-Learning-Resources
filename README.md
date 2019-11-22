@@ -1,7 +1,9 @@
-# Deep Learning Resources
+# Deep Learning Resources ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+### Show some :heart: and :star: the repo to support the project
+[![Github stars](https://img.shields.io/github/stars/Akhil-Pillai/Deep-Learning-Resources.svg?style=social&label=Star)](https://github.com/Akhil-Pillai/Deep-Learning-Resources)
 
 <details>
-  <summary>Preface?</summary>
+  <summary>Preface</summary>
 
   - ### What is it?
 
@@ -23,7 +25,7 @@
 </details>
 
 <details>
-  <summary>Contributors</summary>
+  <summary>Contributors</summary> 
   
   - [Akhil Pillai](https://github.com/Akhil-Pillai/)
   - [Priyavrat Misra](https://github.com/priyavrat-misra/)
@@ -56,23 +58,23 @@
 	
   - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more
       
-  ### Python
+  ### Python :snake:
   - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
   - [Scipy Lecture Notes](https://scipy-lectures.org/) One document to learn numerics, science, and data with Python
   - [NumPy User Guide](https://docs.scipy.org/doc/numpy/user/) This guide is intended as an introductory overview of NumPy and explains how to install and make use of the most important features of NumPy.
   - [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
    
-   ### Math
+   ### Math :pencil2: :straight_ruler: :triangular_ruler:
    - [Youtube: 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) by Grant Sanderson, is combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective
    - [Khan Academy](https://www.khanacademy.org/) great resource to learn all the math from the ground up
    - [MIT 18.06: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) by Prof. Gilbert Strang
     	- This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines such as physics, economics and social sciences, natural sciences, and engineering. 
    - [MIT 18.02: Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/) by Prof. Denis Auroux
-	 		- This course covers differential, integral and vector calculus for functions of more than one variable.
+     - This course covers differential, integral and vector calculus for functions of more than one variable.
    - [Computing for Data Analysis](https://www.edx.org/course/computing-for-data-analysis) A hands-on introduction to basic programming principles and practice relevant to modern data analysis, data mining, and machine learning.
 
-## Textual: Tutorials, Papers and ebooks
- ### Free
+## Textual: Tutorials, Papers and ebooks :book: 
+ ### Free :free:
   - [The Deep Learning](http://www.deeplearningbook.org) textbook by Ian Goodfellow and Yoshua Bengio and Aaron Courville
   - [Machine Learning Mastery!](https://machinelearningmastery.com/) by Jason Brownlee
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
@@ -82,13 +84,13 @@
   - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
   - [Mathematics for Machine Learning](https://mml-book.github.io/) by  by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
   
- ### Paid
+ ### Paid :heavy_dollar_sign:
   - [Python Machine Learning](https://sebastianraschka.com/books.html#python-machine-learning-2nd-edition) and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition by Sebastian Raschka and Vahid Mirjalili 
   - [Make Your Own Neural Network](https://www.amazon.in/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) by Tariq Rashid
   - [Papers With Code](https://paperswithcode.com/) highlights trending ML research and the code to implement it.
 
 
-## Coding Environment
+## Coding Environment :computer:
    - [Google Colab](https://colab.research.google.com/) Colaboratory is a free Jupyter notebook environment provided by Google. If your local workstation cannot take the workload, Google Colab is the platform to use.
    
 ## Blogs
