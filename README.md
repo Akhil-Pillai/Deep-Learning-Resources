@@ -56,11 +56,11 @@
 	
   - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more
       
-   ### Python
-   - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
-   - [Scipy Lecture Notes](https://scipy-lectures.org/) One document to learn numerics, science, and data with Python
-	 - [NumPy User Guide](https://docs.scipy.org/doc/numpy/user/) This guide is intended as an introductory overview of NumPy and explains how to install and make use of the most important features of NumPy.
-	 - [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
+  ### Python
+  - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
+  - [Scipy Lecture Notes](https://scipy-lectures.org/) One document to learn numerics, science, and data with Python
+  - [NumPy User Guide](https://docs.scipy.org/doc/numpy/user/) This guide is intended as an introductory overview of NumPy and explains how to install and make use of the most important features of NumPy.
+  - [Udacity: Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)
    
    ### Math
    - [Youtube: 3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/playlists) by Grant Sanderson, is combination of math and entertainment. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective
@@ -78,14 +78,14 @@
   - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
   - [Quantitative Economics with Python](https://python.quantecon.org/) by by Thomas J. Sargent and John Stachurski. This website presents a set of lectures on quantitative economic modeling in Python
   - [The Hundred-page Machine Learning Book](http://themlbook.com/wiki/doku.php) by Andriy Burkov
-	- [Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch-thank-you) by Eli Stevens and Luca Antiga offered by PyTorch
-	- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
-	- [Mathematics for Machine Learning](https://mml-book.github.io/) by  by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
+  - [Deep Learning with Pytorch](https://pytorch.org/deep-learning-with-pytorch-thank-you) by Eli Stevens and Luca Antiga offered by PyTorch
+  - [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by Michael Nielsen
+  - [Mathematics for Machine Learning](https://mml-book.github.io/) by  by Marc Peter Deisenroth, A Aldo Faisal, and Cheng Soon Ong
   
  ### Paid
   - [Python Machine Learning](https://sebastianraschka.com/books.html#python-machine-learning-2nd-edition) and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition by Sebastian Raschka and Vahid Mirjalili 
-	- [Make Your Own Neural Network](https://www.amazon.in/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) by Tariq Rashid
-	- [Papers With Code](https://paperswithcode.com/) highlights trending ML research and the code to implement it.
+  - [Make Your Own Neural Network](https://www.amazon.in/Make-Your-Own-Neural-Network-ebook/dp/B01EER4Z4G) by Tariq Rashid
+  - [Papers With Code](https://paperswithcode.com/) highlights trending ML research and the code to implement it.
 
 
 ## Coding Environment
@@ -100,19 +100,19 @@
   - [Keras or PyTorch as your first deep learning framework ](https://deepsense.ai/keras-or-pytorch/)
   - [Keras vs TensorFlow vs PyTorch : Comparison of the Deep Learning Frameworks](https://www.edureka.co/blog/keras-vs-tensorflow-vs-pytorch/)
   - [Keras vs Pytorch for Deep Learning](https://towardsdatascience.com/keras-vs-pytorch-for-deep-learning-a013cb63870d)
-	- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) by Adam Geitgey, The world’s easiest introduction to Machine Learning
-	- [Perceptrons, Logical Functions, and the XOR problem](https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a) by Francesco Cicala
-	- [Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) A Graphical Explanation Of Why It Works by Akshay L Chandra
-	- [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by fuat
-	- [The best Data Science courses on the internet](https://www.freecodecamp.org/news/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40/), ranked by your reviews by David Venturi
-	- [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030) by George Szabo
-	- [How to create custom Datasets and DataLoaders with Pytorch](https://medium.com/datadriveninvestor/how-to-custom-datasets-and-dataloaders-with-pytorch-e27f9e2a9009) by Prince Canuma
-	- [Understanding and implementing Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/neural-network-with-softmax-in-python/)with SoftMax in Python from scratch
-	- [Understand and Implement the Backpropagation Algorithm ](http://www.adeveloperdiary.com/data-science/machine-learning/understand-and-implement-the-backpropagation-algorithm-from-scratch-in-python/)From Scratch In Python
-	- [Implement Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/implement-neural-network-using-pytorch/)using PyTorch
+  - [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471) by Adam Geitgey, The world’s easiest introduction to Machine Learning
+  - [Perceptrons, Logical Functions, and the XOR problem](https://towardsdatascience.com/perceptrons-logical-functions-and-the-xor-problem-37ca5025790a) by Francesco Cicala
+  - [Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) A Graphical Explanation Of Why It Works by Akshay L Chandra
+  - [Google Colab Free GPU Tutorial](https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d) by fuat
+  - [The best Data Science courses on the internet](https://www.freecodecamp.org/news/the-best-data-science-courses-on-the-internet-ranked-by-your-reviews-6dc5b910ea40/), ranked by your reviews by David Venturi
+  - [5 things you should do to get selected for the 2nd phase of your Google-Udacity Scholarship](https://medium.com/udacity/the-5-things-you-need-to-do-to-get-selected-for-the-2nd-phase-of-your-google-udacity-scholarship-649f22376030) by George Szabo
+  - [How to create custom Datasets and DataLoaders with Pytorch](https://medium.com/datadriveninvestor/how-to-custom-datasets-and-dataloaders-with-pytorch-e27f9e2a9009) by Prince Canuma
+  - [Understanding and implementing Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/neural-network-with-softmax-in-python/)with SoftMax in Python from scratch
+  - [Understand and Implement the Backpropagation Algorithm ](http://www.adeveloperdiary.com/data-science/machine-learning/understand-and-implement-the-backpropagation-algorithm-from-scratch-in-python/)From Scratch In Python
+  - [Implement Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/implement-neural-network-using-pytorch/)using PyTorch
 
 ## Github Repos
   - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list#tutorials--examples)
-	- [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! 
-	- [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
-	- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
+  - [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap) Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech! 
+  - [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
+  - [Papers We Love](https://github.com/papers-we-love/papers-we-love)
