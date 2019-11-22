@@ -37,17 +37,16 @@
       - [Video Lectures](https://www.youtube.com/watch?v=NfnWJUyUJYU&list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC) by Andrej Karpathy, instructor CS231n.
       - [Notes](http://cs231n.github.io/) to accompany the Stanford CS class CS231n: Convolutional Neural Networks for Visual Recognition
       - [Python Numpy Tutorial](http://cs231n.github.io/python-numpy-tutorial/)
-  
-	- [Practical Deep Learning for Coders](https://course.fast.ai/) Step by step introduction to Deep learning stuff!
-    - Pre-Requisite: You’ve been coding for at least a year, and also that (if you haven’t used Python before) you’ll be putting in the extra time to learn whatever Python you need as you go. (For learning Python, we have a [list of python learning resources available](https://forums.fast.ai/t/recommended-python-learning-resources/26888).)
+  - [Practical Deep Learning for Coders](https://course.fast.ai/) Step by step introduction to Deep learning stuff!
+	- Pre-Requisite: You’ve been coding for at least a year, and also that (if you haven’t used Python before) you’ll be putting in the extra time to learn whatever Python you need as you go. (For learning Python, we have a [list of python learning resources available](https://forums.fast.ai/t/recommended-python-learning-resources/26888).)
   - [Elements of AI](https://course.elementsofai.com/) The Elements of AI is a series of free online courses created by Reaktor and the University of Helsinki. The courses combine theory with practical exercises and can be completed at your own pace.
-	- [Deep Lizard](https://deeplizard.com/) Tutorials on multiple topics like, 
-			-	Machine Learning and Deep Learning Fundamentals
-			- Neural Network Programming - Deep Learning with PyTorch
-			- Data Science - Learn to code for beginners
-			- and many more
+  - [Deep Lizard](https://deeplizard.com/) Tutorials on multiple topics like, 
+	- Machine Learning and Deep Learning Fundamentals
+	- Neural Network Programming - Deep Learning with PyTorch
+	- Data Science - Learn to code for beginners
+	- and many more
   
-	- [Youtube: Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) with Josh Gordon (offered on [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) Youtube Channel)
+  - [Youtube: Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) with Josh Gordon (offered on [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) Youtube Channel)
   
   - [Coursera: ML with Python](https://www.coursera.org/learn/machine-learning-with-python) This course dives into the basics of machine learning 
   - [Coursera: Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) This course will introduce you to the field of deep learning
@@ -55,7 +54,7 @@
   - [Coursera: Deep Learning](https://www.coursera.org/specializations/deep-learning) by Andrew NG. A 5-course specialization focusing on various concepts of deep learning with in-depth and simple explanation.
   - [Coursera: Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning) by deeplearning.ai
 	
-	- [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more
+  - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/) MIT's introductory course on deep learning methods with applications to computer vision, natural language processing, biology, and more
       
    ### Python
    - [Full Stack Python](https://www.fullstackpython.com/) Build, Deploy and Operate Python Applications
