@@ -29,6 +29,7 @@
   
   - [Akhil Pillai](https://github.com/Akhil-Pillai/)
   - [Priyavrat Misra](https://github.com/priyavrat-misra/)
+  - [Sava-Danylo Sakhro](https://github.com/Sakhro/)
  </details>
  
 ---
@@ -49,6 +50,7 @@
 	- and many more
   
   - [Youtube: Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) with Josh Gordon (offered on [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) Youtube Channel)
+  - [Youtube: Linear Algebra for Beginners | Linear algebra for machine learning](https://www.youtube.com/watch?v=kZwSqZuBMGg&list=PLmAuaUS7wSOOAQSmr967567RvrnqmLEPJ)
   
   - [Coursera: ML with Python](https://www.coursera.org/learn/machine-learning-with-python) This course dives into the basics of machine learning 
   - [Coursera: Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) This course will introduce you to the field of deep learning
@@ -113,6 +115,9 @@
   - [Understand and Implement the Backpropagation Algorithm ](http://www.adeveloperdiary.com/data-science/machine-learning/understand-and-implement-the-backpropagation-algorithm-from-scratch-in-python/)From Scratch In Python
   - [Implement Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/implement-neural-network-using-pytorch/)using PyTorch
   - [Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm)](https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1) by Stanley Obumneme Dukor
+  - [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) by Sarang Narkhede
+  - [Sigmoid Function](https://www.sciencedirect.com/topics/computer-science/sigmoid-function)
+  - [What are bias units?](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52)
 
 ## Github Repos
   - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list#tutorials--examples)
