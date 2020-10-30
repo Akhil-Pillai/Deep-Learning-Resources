@@ -29,6 +29,7 @@
   
   - [Akhil Pillai](https://github.com/Akhil-Pillai/)
   - [Priyavrat Misra](https://github.com/priyavrat-misra/)
+  - [Sava-Danylo Sakhro](https://github.com/Sakhro/)
  </details>
  
 ---
@@ -114,6 +115,9 @@
   - [Understand and Implement the Backpropagation Algorithm ](http://www.adeveloperdiary.com/data-science/machine-learning/understand-and-implement-the-backpropagation-algorithm-from-scratch-in-python/)From Scratch In Python
   - [Implement Neural Network ](http://www.adeveloperdiary.com/data-science/deep-learning/implement-neural-network-using-pytorch/)using PyTorch
   - [Neural Representation of AND, OR, NOT, XOR and XNOR Logic Gates (Perceptron Algorithm)](https://medium.com/@stanleydukor/neural-representation-of-and-or-not-xor-and-xnor-logic-gates-perceptron-algorithm-b0275375fea1) by Stanley Obumneme Dukor
+  - [Understanding AUC - ROC Curve](https://towardsdatascience.com/understanding-auc-roc-curve-68b2303cc9c5) by Sarang Narkhede
+  - [Sigmoid Function](https://www.sciencedirect.com/topics/computer-science/sigmoid-function)
+  - [What are bias units?](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52)
 
 ## Github Repos
   - [Awesome-pytorch-list](https://github.com/bharathgs/Awesome-pytorch-list#tutorials--examples)
