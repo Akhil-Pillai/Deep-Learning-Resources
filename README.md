@@ -49,6 +49,7 @@
 	- and many more
   
   - [Youtube: Machine Learning Recipes](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) with Josh Gordon (offered on [Google Developers](https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw) Youtube Channel)
+  - [Youtube: Linear Algebra for Beginners | Linear algebra for machine learning](https://www.youtube.com/watch?v=kZwSqZuBMGg&list=PLmAuaUS7wSOOAQSmr967567RvrnqmLEPJ)
   
   - [Coursera: ML with Python](https://www.coursera.org/learn/machine-learning-with-python) This course dives into the basics of machine learning 
   - [Coursera: Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras) This course will introduce you to the field of deep learning
